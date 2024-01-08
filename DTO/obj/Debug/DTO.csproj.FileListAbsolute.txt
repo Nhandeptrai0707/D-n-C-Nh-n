@@ -1,0 +1,6 @@
+D:\AllProject\Solution1\DTO\bin\Debug\DTO.dll
+D:\AllProject\Solution1\DTO\bin\Debug\DTO.pdb
+D:\AllProject\Solution1\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\AllProject\Solution1\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\AllProject\Solution1\DTO\obj\Debug\DTO.dll
+D:\AllProject\Solution1\DTO\obj\Debug\DTO.pdb
